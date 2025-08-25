@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering student.<br>API consoooooomer.<br>Front End Developer at @REmatchChile.<br>Software Engineering Trainee at @Datawalt
+Software Engineering student.<br>API consoooooomer.<br>Front End Developer at @REmatchChile.<br>Software Engineering Trainee at @Datawalt.<br>Junior Developer at @ICASS-Production
 
 
 ## 🌐 Socials:
